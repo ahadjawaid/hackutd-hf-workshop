@@ -32,10 +32,17 @@ The "ML with Hugging Face" workshop will introduce Hugging Face to hackers, enab
 ## Helpful resources
 
 [My Example of Deploying Using Spaces](https://huggingface.co/spaces/ahad-j/dog-v-cat/tree/main)
+
 [Hugging Face Docs](https://huggingface.co/docs)
+
 [API Inference Docs](https://huggingface.co/docs/api-inference/index)
+
 [Computer Vision Pre-trained Models Docs](https://huggingface.co/docs/timm/index)
+
 [Hugging Face Pre-trained Models Tasks](https://huggingface.co/tasks)
+
 [Hugging Face Models](https://huggingface.co/models)
+
 [Fine tuning Pre-trained Model](https://huggingface.co/docs/transformers/training)
+
 [Trainer API](https://huggingface.co/docs/transformers/main_classes/trainer)
