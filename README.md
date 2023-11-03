@@ -1,4 +1,9 @@
 # Machine Learning with Hugging Face Hub
+## What does this Repository contain?
+- `README.md`: This file!
+- Notebook examples of using Pre-trained models on various tasks (TTS, VQA, OC, etc.)
+- Notebook examples of using Datasets
+
 ## Description
 The "ML with Hugging Face" workshop will introduce Hugging Face to hackers, enabling them to utilize pre-trained models, access datasets, and deploy models for their hackathon projects. We will cover the core features of Hugging Face Hub, particularly its pre-trained models, demonstrating to hackers how to navigate the model list and get started. Additionally, we will highlight other useful features of Hugging Face Hub, such as Datasets and Spaces, which are beneficial for those aiming to train or deploy their models swiftly. 
 
@@ -23,11 +28,6 @@ The "ML with Hugging Face" workshop will introduce Hugging Face to hackers, enab
 | 10 minutes | Using a Dataset | Show dataset list and how to use a dataset with an example |
 | 5 minutes | Hugging Face Spaces | Overview of what hugging face spaces is and how they could use it |
 | 5 minutes | Q&A |  |
-
-## What does this Repo contain?
-- `README.md`: This file!
-- Notebook examples of using Pre-trained models on various tasks (TTS, VQA, OC, etc.)
-- Notebook examples of using Datasets
 
 ## Helpful resources
 
